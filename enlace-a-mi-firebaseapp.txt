@@ -1,0 +1,4 @@
+Enlace app: https://vuecrud-e300f.web.app/
+
+user: eabarca171@gmail.com
+password: 123456
